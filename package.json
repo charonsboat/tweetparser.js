@@ -1,0 +1,27 @@
+{
+  "name": "tweetparser",
+  "version": "0.0.1",
+  "description": "A NodeJS module for parsing Tweet Entities from a Twitter API response object (and rendering the HTML).",
+  "main": "src/TweetParser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drm2/tweetparser.git"
+  },
+  "keywords": [
+    "twitter",
+    "tweet",
+    "entities",
+    "parser",
+    "formatter",
+    "html"
+  ],
+  "author": "David R. Myers II <davidrmyersii@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drm2/tweetparser/issues"
+  },
+  "homepage": "https://github.com/drm2/tweetparser#readme"
+}
