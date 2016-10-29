@@ -1,1 +1,123 @@
-{"created_at":"Thu Oct 27 16:20:07 +0000 2016","id":791675854531231700,"id_str":"791675854531231745","text":"Found a free ethical hacking course by Offensive Security that covers Metasploit. #security #hacking\nhttps://t.co/HF4z0xKfsH","truncated":false,"entities":{"hashtags":[{"text":"security","indices":[82,91]},{"text":"hacking","indices":[92,100]}],"symbols":[],"user_mentions":[],"urls":[{"url":"https://t.co/HF4z0xKfsH","expanded_url":"https://www.offensive-security.com/metasploit-unleashed/","display_url":"offensive-security.com/metasploit-unl…","indices":[101,124]}]},"source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>","in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":286856718,"id_str":"286856718","name":"David R. Myers II","screen_name":"drmyersii","location":"Newark, Ohio, USA","description":"@NoDevs Founder. #Adventurer. #WebDeveloper. I love technology, I love fitness, and I love community.","url":"https://t.co/xhaVRsoXYe","entities":{"url":{"urls":[{"url":"https://t.co/xhaVRsoXYe","expanded_url":"https://drm2.co","display_url":"drm2.co","indices":[0,23]}]},"description":{"urls":[]}},"protected":false,"followers_count":500,"friends_count":1301,"listed_count":36,"created_at":"Sat Apr 23 20:53:02 +0000 2011","favourites_count":2354,"utc_offset":-14400,"time_zone":"Eastern Time (US & Canada)","geo_enabled":false,"verified":false,"statuses_count":1300,"lang":"en","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"C6E2EE","profile_background_image_url":"http://abs.twimg.com/images/themes/theme2/bg.gif","profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme2/bg.gif","profile_background_tile":false,"profile_image_url":"http://pbs.twimg.com/profile_images/774281780761329666/IaqXlqQa_normal.jpg","profile_image_url_https":"https://pbs.twimg.com/profile_images/774281780761329666/IaqXlqQa_normal.jpg","profile_banner_url":"https://pbs.twimg.com/profile_banners/286856718/1470937131","profile_link_color":"1F98C7","profile_sidebar_border_color":"C6E2EE","profile_sidebar_fill_color":"DAECF4","profile_text_color":"663B12","profile_use_background_image":true,"has_extended_profile":true,"default_profile":false,"default_profile_image":false,"following":false,"follow_request_sent":false,"notifications":false,"translator_type":"none"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":1,"favorited":false,"retweeted":false,"possibly_sensitive":false,"possibly_sensitive_appealable":false,"lang":"en"}
+{
+   "created_at":"Thu Oct 27 16:20:07 +0000 2016",
+   "id":791675854531231700,
+   "id_str":"791675854531231745",
+   "text":"Found a free ethical hacking course by Offensive Security that covers Metasploit. #security #hacking\nhttps://t.co/HF4z0xKfsH",
+   "truncated":false,
+   "entities":{
+      "hashtags":[
+         {
+            "text":"security",
+            "indices":[
+               82,
+               91
+            ]
+         },
+         {
+            "text":"hacking",
+            "indices":[
+               92,
+               100
+            ]
+         }
+      ],
+      "symbols":[
+
+      ],
+      "user_mentions":[
+
+      ],
+      "urls":[
+         {
+            "url":"https://t.co/HF4z0xKfsH",
+            "expanded_url":"https://www.offensive-security.com/metasploit-unleashed/",
+            "display_url":"offensive-security.com/metasploit-unl…",
+            "indices":[
+               101,
+               124
+            ]
+         }
+      ]
+   },
+   "source":"<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+   "in_reply_to_status_id":null,
+   "in_reply_to_status_id_str":null,
+   "in_reply_to_user_id":null,
+   "in_reply_to_user_id_str":null,
+   "in_reply_to_screen_name":null,
+   "user":{
+      "id":286856718,
+      "id_str":"286856718",
+      "name":"David R. Myers II",
+      "screen_name":"drmyersii",
+      "location":"Newark, Ohio, USA",
+      "description":"@NoDevs Founder. #Adventurer. #WebDeveloper. I love technology, I love fitness, and I love community.",
+      "url":"https://t.co/xhaVRsoXYe",
+      "entities":{
+         "url":{
+            "urls":[
+               {
+                  "url":"https://t.co/xhaVRsoXYe",
+                  "expanded_url":"https://drm2.co",
+                  "display_url":"drm2.co",
+                  "indices":[
+                     0,
+                     23
+                  ]
+               }
+            ]
+         },
+         "description":{
+            "urls":[
+
+            ]
+         }
+      },
+      "protected":false,
+      "followers_count":500,
+      "friends_count":1301,
+      "listed_count":36,
+      "created_at":"Sat Apr 23 20:53:02 +0000 2011",
+      "favourites_count":2354,
+      "utc_offset":-14400,
+      "time_zone":"Eastern Time (US & Canada)",
+      "geo_enabled":false,
+      "verified":false,
+      "statuses_count":1300,
+      "lang":"en",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"C6E2EE",
+      "profile_background_image_url":"http://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_image_url_https":"https://abs.twimg.com/images/themes/theme2/bg.gif",
+      "profile_background_tile":false,
+      "profile_image_url":"http://pbs.twimg.com/profile_images/774281780761329666/IaqXlqQa_normal.jpg",
+      "profile_image_url_https":"https://pbs.twimg.com/profile_images/774281780761329666/IaqXlqQa_normal.jpg",
+      "profile_banner_url":"https://pbs.twimg.com/profile_banners/286856718/1470937131",
+      "profile_link_color":"1F98C7",
+      "profile_sidebar_border_color":"C6E2EE",
+      "profile_sidebar_fill_color":"DAECF4",
+      "profile_text_color":"663B12",
+      "profile_use_background_image":true,
+      "has_extended_profile":true,
+      "default_profile":false,
+      "default_profile_image":false,
+      "following":false,
+      "follow_request_sent":false,
+      "notifications":false,
+      "translator_type":"none"
+   },
+   "geo":null,
+   "coordinates":null,
+   "place":null,
+   "contributors":null,
+   "is_quote_status":false,
+   "retweet_count":0,
+   "favorite_count":1,
+   "favorited":false,
+   "retweeted":false,
+   "possibly_sensitive":false,
+   "possibly_sensitive_appealable":false,
+   "lang":"en"
+}
